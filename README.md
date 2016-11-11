@@ -1,10 +1,9 @@
 # hello-world
-demo
 
-
-
-this is a template for github.
-
-
-
-add some words.... www.baidu.com
+From IDEA to GitHub.  11/2016
+From IDEA to GitHub.  11/2016
+From IDEA to GitHub.  11/2016
+From IDEA to GitHub.  11/2016
+From IDEA to GitHub.  11/2016
+From IDEA to GitHub.  11/2016
+From IDEA to GitHub.  11/2016
